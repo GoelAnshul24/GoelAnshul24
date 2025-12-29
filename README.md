@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Goel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI Software developer from India</h3>
 
 - 🔭 I’m currently working on **Secure Data Wiping**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Handwritten Doctor's Prescription**
 
-- 📫 How to reach me **anshulgoel@gmail.com**
+- 📫 How to reach me **anshulgoel241203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
